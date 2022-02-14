@@ -18,7 +18,6 @@
 - [Node.js LTS 버전(v10.x 이상)](https://nodejs.org/ko/)
 - [Vue.js Dev Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
 
-💡 참고 사항 : 수업에서는 VSCode를 기준으로 설명합니다. 별도로 선호하시는 IDE가 있다면 그걸 쓰셔도 괜찮습니다 😄
 
 ## VSCode 플러그인 목록
 
